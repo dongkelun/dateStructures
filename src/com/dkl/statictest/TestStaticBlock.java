@@ -1,4 +1,4 @@
-package statictest;
+package com.dkl.statictest;
 
 public class TestStaticBlock {
 

@@ -1,4 +1,4 @@
-package statictest;
+package com.dkl.statictest;
 
 class BThread extends Thread {
     public BThread() {

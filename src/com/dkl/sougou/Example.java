@@ -1,4 +1,4 @@
-package sougou;
+package com.dkl.sougou;
 
 public class Example extends Thread{
     @Override

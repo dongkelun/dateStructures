@@ -1,4 +1,4 @@
-package bishi;
+package com.dkl.jianzhioffer;
 
 /*
  * 链表

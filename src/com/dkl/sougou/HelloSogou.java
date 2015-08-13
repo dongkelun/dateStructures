@@ -1,4 +1,4 @@
-package sougou;
+package com.dkl.sougou;
 
 public class HelloSogou{
     public static  void main(String[] a){

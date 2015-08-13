@@ -1,4 +1,4 @@
-package leetcode;
+package com.dkl.leetcode;
 
 public class JianDanJuan {
 
